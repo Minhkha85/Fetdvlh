@@ -135,7 +135,7 @@ function App() {
 
       const response = await axios.post(
         // "http://tuyendung.vietlonghung.com.vn/api/register",
-         "http://171.244.39.8:30002/api/register",
+         "http://171.244.39.87:30002/api/register",
         // "https://tuyendung-vlh.onrender.com/api/register",
         formData,
         {
